@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Babyschlaf</string>
+    <string name="hello_till">Drücke das +, um ein Kind hinzuzufügen!</string>
+</resources>
